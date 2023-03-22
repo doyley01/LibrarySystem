@@ -1,0 +1,7 @@
+
+ISBN:1234567899 Title: Testint Publisher: josh Price: £1.99
+ISBN:1231231235 Title: Testing2 Publisher: Hello Price: £7.99
+ISBN:1010101010 Title: My Cool Book Publisher: cool Price: £4.99
+ISBN:1111155555 Title: Jamie Publisher: Software Price: £12.99
+ISBN:1111115555 Title: MyCoolBook Publisher: cool Price: £12.5
+ISBN:1234512345 Title: mycoolbook Publisher: cool Price: £5.99
